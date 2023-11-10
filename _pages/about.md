@@ -13,9 +13,9 @@ profile:
     <p>Max Planck Institute for the Physics of Complex systems </p>
     <p>Dresden, Germany </p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 Hi, I am a condensed matter physicist interested in the interplay between, topological phases, out of equilibrium phenomena and emergent behaviour.
