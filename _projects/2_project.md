@@ -7,9 +7,9 @@ importance: 2
 category: work
 related_publications: TRI-FST 
 ---
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/TRI.png" title="Skyrmion texture of pseudo-spin" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/TRI.png" title="Skyrmion texture of pseudo-spin" class="img-fluid rounded z-depth-1" width="400"%}
     </div>
 </div>
 <div class="caption">
