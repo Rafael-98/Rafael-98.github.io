@@ -6,5 +6,6 @@ description:
 nav: true
 nav_order: 5
 ---
-- ** Electromagnetism II, 2020 ** TA at the Universidad Nacional Autonoma de Mexico (UNAM)
-- ** Analytical Mechanics, 2022 ** TA at Technische Universtiät Dresden (TUD)
+
++ **Electromagnetism II, 2020** TA at the Universidad Nacional Autonoma de Mexico (UNAM)
++ **Analytical Mechanics, 2022** TA at Technische Universtiät Dresden (TUD)
