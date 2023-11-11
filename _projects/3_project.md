@@ -7,7 +7,7 @@ importance: 3
 category: work
 ---
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/cavity-fermion.png" title="Cavity non-thermal steady states" class="img-fluid rounded z-depth-1" width="400" %}
     </div>
