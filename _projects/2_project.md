@@ -5,7 +5,7 @@ description:
 img: assets/img/TRI.png
 importance: 2
 category: work
-related_publications: TR-FST 
+related_publications: TRI-FST 
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
