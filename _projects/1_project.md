@@ -2,7 +2,7 @@
 layout: page
 title: Electrochemical transport in topological semimetals
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/transport.png
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
