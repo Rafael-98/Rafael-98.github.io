@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 2nd September 1998
     - name: Languages
-      value: Spanish, English, German, French, Italian
+      value: Spanish (Native), English(Fluent), German (Intermediate), French (Beginner), Italian (Beginner)
 
 - title: Education
   type: time_table
@@ -15,27 +15,21 @@
       institution: Max Planck Institute for the Physics of Complex Systems 
       year: 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - PhD. under the supervision of Prof. Roderich Moessner and Dr. Ashley Cook
     - title: Bachelor of science
       institution: Universidad Nacional Autonoma de Mexico (UNAM)
       year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Physics major with 9.9 out of 10.0 grade point average 
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2021
       items: 
-        - Gabino Barreda Medal
+        - Gabino Barreda Medal, for the best grade point average in Physics
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Guitar, Running, Bouldering.
+    - <u>Hobbies:</u> Playing Guitar, Running, Bouldering, swimming. 
