@@ -5,7 +5,7 @@ description:
 img: assets/img/TRI.png
 importance: 2
 category: work
-related_publications: TRI-FST 
+related_publications: TRI-FST, TR-Skyrm
 ---
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
