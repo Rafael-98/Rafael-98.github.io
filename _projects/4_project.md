@@ -5,6 +5,7 @@ description:
 img: assets/img/snowflake.png
 importance: 3
 category: work
+related publications: IrrationalMoments
 ---
 
 <div class="row justify-content-sm-center">
