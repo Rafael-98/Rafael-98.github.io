@@ -2,10 +2,10 @@
 layout: page
 title: Supersolid excitations and XXZ model in the triangular lattice 
 description:
-img: assets/img/snowflake.png
+img: assets/img/XXZ.pdf
 importance: 3
 category: work
-related_publications: IrrationalMoments
+related_publications: XXZDSF
 ---
 
 <div class="row justify-content-sm-center">
@@ -14,5 +14,5 @@ related_publications: IrrationalMoments
     </div>
 </div>
 
-Classical spin liquids (CSLs) have proved fruitful for the emergence of exotic  gauge theories. Vacancy clusters in CSLs can introduce gauge charges into the system, and the resulting behavior in turn reveals the nature of the underlying theory. We study these effects for a series of CSLs on the honeycomb lattice. We find that dilution leads to the emergence of effective free spins with tuneable, and generally irrational, size. For a specific higher-rank CSL, described by a symmetric tensor gauge fields, dilution produces {\it non-decaying} spin textures with a characteristic quadrupolar angular structure, and infinite-ranged interactions between dilution clusters.
+﻿﻿The authors investigate the spin-1/2 XXZ model on the triangular lattice with strong Ising anisotropy, motivated by recent neutron-scattering experiments. DMRG simulations of the dynamical spin structure factor reveal a roton-like minimum and a broad continuum beyond linear spin-wave theory. The authors contrast these results with hard-core boson methods, Schwinger bosons, and a variational supersolid quantum-dimer ansatz. The supersolid QDM wavefunction and the DMRG ground state produce nearly identical dimer structure factors with pronounced transverse photon-like excitations. 
 
