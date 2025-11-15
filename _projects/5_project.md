@@ -10,7 +10,7 @@ related_publications: XXZDSF
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/snowflake.png" title="Cavity non-thermal steady states" class="img-fluid rounded z-depth-1" width="400" %}
+        {% include figure.html path="assets/img/XXZDSF.pdf" title="Supersolid excitations and XXZ model in the triangular lattice " class="img-fluid rounded z-depth-1" width="400" %}
     </div>
 </div>
 
