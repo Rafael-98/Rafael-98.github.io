@@ -3,7 +3,7 @@ layout: page
 title: Dilution effects in spin liquids
 description:
 img: assets/img/snowflake.png
-importance: 3
+importance: 2
 category: work
 related_publications: IrrationalMoments
 ---
