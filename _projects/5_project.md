@@ -5,7 +5,7 @@ description:
 img: assets/img/XXZDSF.png
 importance: 1
 category: work
-related_publications: XXZDSF
+related_publications: 
 ---
 
 <div class="row justify-content-sm-center">
