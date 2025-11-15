@@ -14,5 +14,5 @@ related_publications:
     </div>
 </div>
 
-﻿﻿The authors investigate the spin-1/2 XXZ model on the triangular lattice with strong Ising anisotropy, motivated by recent neutron-scattering experiments. DMRG simulations of the dynamical spin structure factor reveal a roton-like minimum and a broad continuum beyond linear spin-wave theory. The authors contrast these results with hard-core boson methods, Schwinger bosons, and a variational supersolid quantum-dimer ansatz. The supersolid QDM wavefunction and the DMRG ground state produce nearly identical dimer structure factors with pronounced transverse photon-like excitations. 
+We investigate the spin-1/2 XXZ model on the triangular lattice with strong Ising anisotropy, motivated by recent neutron-scattering experiments. DMRG simulations of the dynamical spin structure factor reveal a roton-like minimum and a broad continuum beyond linear spin-wave theory. We contrast these results with hard-core boson methods, Schwinger bosons, and a variational supersolid quantum-dimer ansatz. The supersolid QDM wavefunction and the DMRG ground state produce nearly identical dimer structure factors with pronounced transverse photon-like excitations. 
 
