@@ -2,7 +2,7 @@
 layout: page
 title: Supersolid excitations and XXZ model in the triangular lattice 
 description:
-img: assets/img/XXZ.pdf
+img: assets/img/XXZDSF.pdf
 importance: 3
 category: work
 related_publications: XXZDSF
