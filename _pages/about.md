@@ -6,7 +6,7 @@ subtitle: <a href='#'>QMQI </a> Sapere aude!
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo_me_doctor.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>2A1</p>
