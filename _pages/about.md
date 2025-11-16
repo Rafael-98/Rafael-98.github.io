@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>MPI PKS, MPG QM </a> Sapere aude!
+subtitle: <a href='#'>QMQI </a> Sapere aude!
 
 profile:
   align: right
@@ -10,8 +10,9 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>2A1</p>
-    <p>Max Planck Institute for the Physics of Complex systems </p>
-    <p>Dresden, Germany </p>
+    <p>Quantum Matter/Quantum Information (QMQI) Theory, 
+    Physics Department | Technical University of Munich | 85748 Garching, Germany </p>
+    <p>Munich, Germany </p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
