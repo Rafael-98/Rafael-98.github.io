@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Quantum Matter/Quantum Information (QMQI) Theory </a> Sapere aude!
 
