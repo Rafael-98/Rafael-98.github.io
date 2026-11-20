@@ -6,21 +6,32 @@
     - name: Date of Birth
       value: 2nd September 1998
     - name: Languages
-      value: Spanish (Native), English(Fluent), German (Intermediate), French (Beginner), Italian (Beginner)
+      value: Spanish (Native), English(Fluent), German (Fluent), French (Beginner), Italian (Beginner)
+
+- title: Academic Positions
+  type: time_table
+  contents:
+    - title: Postdoctoral researcher
+      institution: Technical University of Munich (TUM)
+      year: 2025 – now
+      description:
+        - Condensed Matter Theory and Quantum Information, in the groups of Prof. Michael Knap and Prof. Frank Pollmann
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: Max Planck Institute for the Physics of Complex Systems 
-      year: 2021
+    - title: PhD (Dr. rer. nat.), summa cum laude
+      institution: Max Planck Institute for the Physics of Complex Systems / Technische Universität Dresden
+      year: 2021 – 2025
       description:
-        - PhD. under the supervision of Prof. Roderich Moessner and Dr. Ashley Cook
-    - title: Bachelor of science
+        - Co-supervised by Prof. Roderich Moessner and Dr. Ashley Cook
+        - "Thesis: <em>Through the looking glass of unconventional topological phases and fractionalization</em>"
+    - title: Bachelor of Science in Physics, summa cum laude
       institution: Universidad Nacional Autonoma de Mexico (UNAM)
-      year: 2021
+      year: 2016 – 2021
       description:
-        - Physics major with 9.9 out of 10.0 grade point average 
+        - Grade point average 9.9 out of 10.0
+        - Exchange semester at the University of California, Berkeley (Fall 2019)
 
 - title: Honors and Awards
   type: time_table
