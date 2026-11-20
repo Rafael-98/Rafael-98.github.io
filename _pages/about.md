@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Quantum Matter/Quantum Information (QMQI) Theory </a> Sapere aude!
+subtitle: <a href='https://www.ph.nat.tum.de/cmt/' target='_blank' rel='noopener noreferrer'>Quantum Matter/Quantum Information (QMQI) Theory</a> Sapere aude!
 
 profile:
   align: right
