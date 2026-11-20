@@ -596,6 +596,12 @@ footer.sticky-bottom {
   src: url("../fonts/cmu-serif/cmu-serif-700-roman.woff2") format("woff2");
 }
 
+// "Research" page title (the page whose content holds the project cards)
+.post:has(.projects) .post-title {
+  font-family: "CMU Serif", "Latin Modern Roman", Georgia, serif;
+  font-weight: 500;
+}
+
 .projects {
   .card-title {
     font-family: "CMU Serif", "Latin Modern Roman", Georgia, serif;
