@@ -579,7 +579,8 @@ footer.sticky-bottom {
 
 // Projects
 
-// CMU Serif (SIL OFL, see assets/fonts/cmu-serif/OFL.txt) for research card titles
+// CMU Serif site-wide (SIL OFL, see assets/fonts/cmu-serif/OFL.txt).
+// Icons (<i>), code and MathJax keep their own fonts.
 @font-face {
   font-family: "CMU Serif";
   font-style: normal;
@@ -596,15 +597,38 @@ footer.sticky-bottom {
   src: url("../fonts/cmu-serif/cmu-serif-700-roman.woff2") format("woff2");
 }
 
-// "Research" page title (the page whose content holds the project cards)
-.post:has(.projects) .post-title {
-  font-family: "CMU Serif", "Latin Modern Roman", Georgia, serif;
+@font-face {
+  font-family: "CMU Serif";
+  font-style: italic;
   font-weight: 500;
+  font-display: swap;
+  src: url("../fonts/cmu-serif/cmu-serif-500-italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "CMU Serif";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/cmu-serif/cmu-serif-700-italic.woff2") format("woff2");
+}
+
+body,
+body *:not(i):not(code):not(code *):not(pre):not(pre *):not(mjx-container):not(mjx-container *) {
+  font-family: "CMU Serif", "Latin Modern Roman", Georgia, serif;
+}
+
+// CV page: smaller page title and section headings
+.post:has(.cv) .post-title {
+  font-size: 2rem;
+}
+
+.cv .card-title {
+  font-size: 1.35rem;
 }
 
 .projects {
   .card-title {
-    font-family: "CMU Serif", "Latin Modern Roman", Georgia, serif;
     font-weight: 500;
     font-size: 1.3rem;
     line-height: 1.3;
