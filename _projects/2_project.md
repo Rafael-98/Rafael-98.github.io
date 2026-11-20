@@ -3,9 +3,9 @@ layout: page
 title: Time reversal invariant topology
 description: 
 img: assets/img/TRI.png
-importance: 4
+importance: 7
 category: work
-related_publications: TRI-FST, TR-Skyrm
+related_publications: TRI-FST, TR-Skyrm, SkyrmionHallEFT
 ---
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">

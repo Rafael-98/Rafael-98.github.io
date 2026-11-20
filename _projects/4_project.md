@@ -3,9 +3,9 @@ layout: page
 title: Dilution effects in spin liquids
 description:
 img: assets/img/snowflake.png
-importance: 2
+importance: 5
 category: work
-related_publications: IrrationalMoments
+related_publications: IrrationalMoments, BulkDefect
 ---
 
 <div class="row justify-content-sm-center">
@@ -16,3 +16,4 @@ related_publications: IrrationalMoments
 
 Classical spin liquids (CSLs) have proved fruitful for the emergence of exotic  gauge theories. Vacancy clusters in CSLs can introduce gauge charges into the system, and the resulting behavior in turn reveals the nature of the underlying theory. We study these effects for a series of CSLs on the honeycomb lattice. We find that dilution leads to the emergence of effective free spins with tuneable, and generally irrational, size. For a specific higher-rank CSL, described by a symmetric tensor gauge fields, dilution produces {\it non-decaying} spin textures with a characteristic quadrupolar angular structure, and infinite-ranged interactions between dilution clusters.
 
+Related topics: [Bulk-defect correspondence in algebraic classical spin liquids]({{ '/projects/8_project/' | relative_url }})

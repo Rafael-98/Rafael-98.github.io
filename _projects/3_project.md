@@ -3,8 +3,9 @@ layout: page
 title: Cavity non-thermal steady states
 description:
 img: assets/img/cavity-fermion.png
-importance: 3
+importance: 6
 category: work
+related_publications: nonthermal-cavity, CavityEliashberg
 ---
 
 <div class="row justify-content-sm-center">
